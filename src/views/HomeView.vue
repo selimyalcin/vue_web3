@@ -60,7 +60,6 @@ export default {
         "0x930a5614c727f5C4e01cB06cf9E3538706CEA3a9",
         0
       );
-      //worm contract abi func
       this.contractResponse = t;
     },
     addChain() {
